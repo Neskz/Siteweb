@@ -1,0 +1,72 @@
+
+.card-content
+{
+    position:relative;
+    left:25%;
+}
+
+header
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#logo
+{
+    display: flex;    
+    flex-direction: row;
+    align-items: baseline;
+}
+
+#logo img
+{
+    width: 60px;
+    height: 60px;
+}
+
+header h1
+{
+    position: relative;
+    left:50%;
+}
+
+#ul1
+{
+    position: relative;
+    left:1%;
+}
+
+#ul1 a
+{
+    color:black;
+}
+
+#ul2
+{
+    position: relative;
+    left:50%;
+}
+
+#ul2 img
+{   
+    position: relative;
+    top:10px;
+    width: 30px;
+    height: 30px;
+}
+
+header li
+{
+    margin-right: 20px;
+}
+
+nav
+{
+    background:url(fondb.jpg);
+}
+
+body
+{
+    background: url(fondb.jpg);
+}
